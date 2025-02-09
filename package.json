@@ -8,9 +8,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "description": "",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "openai": "^4.83.0"
   }
 }
